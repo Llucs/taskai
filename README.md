@@ -6,6 +6,10 @@ TaskAI é uma assistente de automação baseada em Python que usa o ChatGPT Web 
 
 ---
 
+### PROJETO PARADO, AINDA EM DESENVOLVIMENTO, AGUARDE ENQUANTO FICA PRONTO.
+
+---
+
 ⚙️ Funcionalidades
 
 - 🤖 Integração via navegador com o ChatGPT Web (API caseira)
