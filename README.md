@@ -45,6 +45,7 @@ taskai/
     └── chrome_data/        # Sessão persistente do navegador
 `
 
+(Tentei colocar aqui mas deve estar toda torta 😅)
 ---
 
 📦 Instalação
